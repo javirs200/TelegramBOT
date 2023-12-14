@@ -1,0 +1,21 @@
+{
+   "update_id":276686924,
+   "message":{
+      "message_id":1912,
+      "from":{
+         "id":687029492,
+         "is_bot":false,
+         "first_name":"Javi",
+         "username":"Javirs200",
+         "language_code":"es"
+      },
+      "chat":{
+         "id":687029492,
+         "first_name":"Javi",
+         "username":"Javirs200",
+         "type":"private"
+      },
+      "date":1634138308,
+      "text":"mensaje de prueba \n <b> cosa en negro </b>"
+   }
+}
